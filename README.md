@@ -34,6 +34,13 @@
       </ul>
       <li> Traverse the list until <b><mark> curr!=null</mark></b></li>
       <li>Store next node -> <b><mark> next=curr.next</mark></b></li>
+      <li>Reverse pointer -> <b><mark> curr.next=prev</mark></b></li>
+      <li> Move pointetrs forward :</li>
+      <u>
+        <li>prev=curr</li>
+        <li>curr=next</li>
+      </u>
+      <li> After loop ends-> head=prev</li>
     </ol>
   
     
