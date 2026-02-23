@@ -24,4 +24,7 @@
     </ul>
     <p> We iterate through the list an dreverse the link og reach node one by one</p>
   </div>
+  <div>
+    <h1> ⚙️Algorithm Steps</h1>
+  </div>
 </body>
