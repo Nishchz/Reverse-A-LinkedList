@@ -1,10 +1,10 @@
 <body>
   <div>
-  <h1> 📖 Reverse Linked List ( Iterative Approach)</h1>
-  <p> This project demostrate how to reverse a singly linked list using an iterative approach in java The reversal is performed by changing the direction of the next pointers without using extra space</p>
+  <h1> ♾️ Reverse Linked List Detalied Explanation</h1>
+  <p> Given the head of a singly linked list reverse the list such that the last node becomes the first node and all links are reversed</p>
   </div>
   <div>
-    <h1>🧠 Concept</h1>
+    <h1> 🎯 Obejective</h1>
     <ul>
       <li>In a singly Linked LIst each node contains :</li>
       <ul>
