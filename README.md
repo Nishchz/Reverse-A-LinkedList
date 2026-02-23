@@ -29,10 +29,11 @@
     <ol>
       <li>Initialise :</li>
       <ul>
-        <li>Prev=null</li>
-        <li>Curr=head</li>
+        <li>prev=null</li>
+        <li>curr=head</li>
       </ul>
       <li> Traverse the list until <b><mark> curr!=null</mark></b></li>
+      <li>Store next node -> <b><mark> next=curr.next</mark></b></li>
     </ol>
   
     
