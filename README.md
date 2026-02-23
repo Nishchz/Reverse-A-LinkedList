@@ -26,5 +26,15 @@
   </div>
   <div>
     <h1> ⚙️Algorithm Steps</h1>
+    <ol>
+      <li>Initialise :</li>
+      <ul>
+        <li>prev=null</li>
+        <li>curr=head</li>
+      </ul>
+      <li> traverse the list until <b><mark> curr!=null</mark></b> -></li>
+    </ol>
+  
+    
   </div>
 </body>
