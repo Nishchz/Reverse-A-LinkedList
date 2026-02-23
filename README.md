@@ -16,11 +16,11 @@
   <div>
     <ul>
       <li>To reverse the list we use three pointers :</li>
-    </ul>
     <ul>
       <li> prev</li>
       <li>curr</li>
       <li>next</li>
+    </ul>
     </ul>
     <p> We iterate through the list an dreverse the link og reach node one by one</p>
   </div>
