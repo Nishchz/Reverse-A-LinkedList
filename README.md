@@ -32,7 +32,7 @@
         <li>prev=null</li>
         <li>curr=head</li>
       </ul>
-      <li> traverse the list until <b><mark> curr!=null</mark></b> -></li>
+      <li> traverse the list until <b><mark> curr!=null</mark></b></li>
     </ol>
   
     
