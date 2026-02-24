@@ -44,4 +44,13 @@
         </ul>
       </ul>
     </div>
+  <div>
+    <h1> ⏳Complexity analysis</h1>
+    <ul>
+      <li> Time Complexity : o(n)</li>
+      <ul>
+        <li> We traverse the list once</li>
+      </ul>
+    </ul>
+  </div>
 </body>
