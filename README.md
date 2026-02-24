@@ -6,9 +6,9 @@
   <div>
     <h1> 🎯 Objective</h1>
     <ul>
-      <li>Instead creating a new list ..we reverse the list in-place by mainuplating node reference <br> This approach ensure :</li>
+      <li>Instead creating a new list ..we reverse the list in-place by mainuplating node reference <br> ➡️This approach ensure :</li>
       <ul>
-        <li> This approach ensure :</li>
+        <li> This approach ensure :</
         <li> no extra space allocation </li>
       </ul>
     </ul>
