@@ -4,11 +4,11 @@
   <p> Given the head of a singly linked list reverse the list such that the last node becomes the first node and all links are reversed</p>
   </div>
   <div>
-    <h1> 🎯 Obejective</h1>
+    <h1> 🎯 Objective</h1>
     <ul>
-      <li>In a singly Linked LIst each node contains :</li>
+      <li>Instead creating a new list, we reverse the list in-place by mainuplating node reference</li>
       <ul>
-        <li> data</li>
+        <li> This approach ensure :</li>
         <li> reference to the <b><mark>next</mark></b> node</li>
       </ul>
     </ul>
