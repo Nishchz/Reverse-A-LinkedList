@@ -4,7 +4,11 @@
   <p> Given the head of a singly linked list reverse the list such that the last node becomes the first node and all links are reversed</p>
   </div>
   <div>
-    <h1> 🎯 Objective</h1>
+    <h1> 🧾Objective</h1>
+    <p> To reverse the direction of the next pointers without using extra memory and maintain optimal performance</p>
+  </div>
+  <div>
+    <h1> 🧠Approach Used Iterative Method</h1>
     <ul>
       <li>Instead creating a new list ..we reverse the list in-place by mainuplating node reference <br> ➡️This approach ensure :</li>
       <ul>
