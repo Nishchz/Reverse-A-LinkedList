@@ -25,6 +25,7 @@
         <li>curr->Curent node being processed</li>
         <li>next->Store next node temporarily</li>
       </ul>
+      </ol>
     </div>
     <div>
       <h1>Step Flow </h1>
