@@ -20,7 +20,7 @@
       <li>Initialise List:</li>
       <ul>
         <li> 1->2->3->4->5->null</li>
-        <li>We maintain three pointers</li>
+        <li>We maintain three pointers :</li>
         <li>prev-> tracks reversed portion</li>
         <li>curr->Curent node being processed</li>
         <li>next->Store next node temporarily</li>
