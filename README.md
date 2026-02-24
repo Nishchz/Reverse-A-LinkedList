@@ -8,8 +8,9 @@
     <ul>
       <li>Instead creating a new list ..we reverse the list in-place by mainuplating node reference <br> ➡️This approach ensure :</li>
       <ul>
-        <li> This approach ensure :</
+        <li> Efficient traversal</li>
         <li> no extra space allocation </li>
+        <li> Clean pointer managment</li>
       </ul>
     </ul>
   </div>
