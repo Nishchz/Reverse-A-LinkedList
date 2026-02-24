@@ -16,8 +16,8 @@
   </div>
   <div>
     <h1> ⚙️Working Mechanism (Pointer Movement Visualization)</h1>
-    <ol>
-      <li>Initialise List:</li>
+    <ul>
+      <li><h3>Initialise List:</h3></li>
       <ul>
         <li> 1->2->3->4->5->null</li>
         <li>We maintain three pointers :</li>
@@ -25,17 +25,19 @@
         <li>curr->Curent node being processed</li>
         <li>next->Store next node temporarily</li>
       </ul>
-      </ol>
+      </ul>
     </div>
     <div>
-      <h1>Step Flow </h1>
       <ul>
+        <li> <h3> Step Flow :</h3></li>
+        <ul>
         <li> Save next node</li>
         <li>Reverse current node pointer</li>
         <li>Move prev forward</li>
         <li>Move curr forward</li>
         <li>After full traverse :</li>
         <li> 5->4->3->2->1->null</li>
+        </ul>
       </ul>
     </div>
 </body>
