@@ -32,6 +32,9 @@
         <li> Save next node</li>
         <li>Reverse current node pointer</li>
         <li>Move prev forward</li>
+        <li>Move curr forward</li>
+        <li>After full traverse :</li>
+        <li> 5->4->3->2->1->null</li>
       </ul>
     </div>
 </body>
