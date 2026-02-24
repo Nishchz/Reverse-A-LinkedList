@@ -6,10 +6,10 @@
   <div>
     <h1> 🎯 Objective</h1>
     <ul>
-      <li>Instead creating a new list, we reverse the list in-place by mainuplating node reference</li>
+      <li>Instead creating a new list ..we reverse the list in-place by mainuplating node reference</li>
       <ul>
         <li> This approach ensure :</li>
-        <li> reference to the <b><mark>next</mark></b> node</li>
+        <li> no extra space allocation </li>
       </ul>
     </ul>
   </div>
