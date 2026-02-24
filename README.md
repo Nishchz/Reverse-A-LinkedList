@@ -15,23 +15,15 @@
     </ul>
   </div>
   <div>
-    <ul>
-      <li>To reverse the list we use three pointers :</li>
-    <ul>
-      <li> prev</li>
-      <li>curr</li>
-      <li>next</li>
-    </ul>
-    </ul>
-    <p> We iterate through the list an dreverse the link og reach node one by one</p>
-  </div>
-  <div>
-    <h1> ⚙️Algorithm Steps</h1>
+    <h1> ⚙️Working Mechanism (Pointer Movement Visualization)</h1>
     <ol>
-      <li>Initialise :</li>
+      <li>Initialise List:</li>
       <ul>
-        <li>prev=null</li>
-        <li>curr=head</li>
+        <li> 1->2->3->4->5->null</li>
+        <li>We maintain three pointers</li>
+        <li>prev-> tracks reversed portion</li>
+        <li>curr->Curent node being processed</li>
+        <li>next->Store next node temporarily</li>
       </ul>
       <li> Traverse the list until <b><mark> curr!=null</mark></b></li>
       <li>Store next node -> <b><mark> next=curr.next</mark></b></li>
