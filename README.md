@@ -25,15 +25,13 @@
         <li>curr->Curent node being processed</li>
         <li>next->Store next node temporarily</li>
       </ul>
-      <li> Traverse the list until <b><mark> curr!=null</mark></b></li>
-      <li>Store next node -> <b><mark> next=curr.next</mark></b></li>
-      <li>Reverse pointer -> <b><mark> curr.next=prev</mark></b></li>
-      <li> Move pointers forward :</li>
+    </div>
+    <div>
+      <h1>Step Flow </h1>
       <ul>
-        <li>prev=curr</li>
-        <li>curr=next</li>
+        <li> Save next node</li>
+        <li>Reverse current node pointer</li>
+        <li>Move prev forward</li>
       </ul>
-      <li> After loop ends-> head=prev</li>
-    </ol>
-  </div>
+    </div>
 </body>
